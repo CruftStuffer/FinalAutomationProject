@@ -2,6 +2,6 @@
 
 
 
-<b> Build A Box! </b>
+<b> Build-A-Box! </b>
 
 
